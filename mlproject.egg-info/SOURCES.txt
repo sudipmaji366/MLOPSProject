@@ -1,5 +1,9 @@
 README.md
 setup.py
+Components/__init__.py
+Components/data_ingestion.py
+Components/data_transformation.py
+Components/model_trainer.py
 mlproject.egg-info/PKG-INFO
 mlproject.egg-info/SOURCES.txt
 mlproject.egg-info/dependency_links.txt

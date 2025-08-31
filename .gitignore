@@ -140,3 +140,4 @@ celerybeat.pid
 .venv
 env/
 venv/
+mlproject.egg-info/
